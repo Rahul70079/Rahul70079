@@ -1,4 +1,3 @@
-https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of Ul designing. A Quick learner and problem solver with good Communication skills.</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
