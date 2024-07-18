@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of Ul designing. A Quick learner and problem solver with good Communication skills. ⚡🌟 Fun fact I can write code that executes flawlessly, but when it comes to love, my romantic gestures are as smooth as a runtime error...with a touch of sarcastic charm.</h3>
 
-<img align="right"alt="coding"width"400"src="https://www.bing.com/th/id/OGC.75e7ef7aa27009befb076509382b86b8?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f75%2fe7%2fef%2f75e7ef7aa27009befb076509382b86b8.gif&ehk=DbbFry%2b6CWoi9zlcGgRgHZxmObAAR%2fWJD53t5bgZB50%3d"
+<img align="right"alt="coding"width"400"src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul70079&label=Profile%20views&color=0e75b6&style=flat" alt="rahul70079" /> </p>
 
@@ -41,5 +41,7 @@
 
 
 
+
+      
 
       
