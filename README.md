@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of Ul designing. A Quick learner and problem solver with good Communication skills.</h3>
-
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul70079&label=Profile%20views&color=0e75b6&style=flat" alt="rahul70079" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul70079" alt="rahul70079" /></a> </p>
 
 - 🔭 I’m currently working on **𝗠𝗘𝗥𝗡 projects.**
 
@@ -37,8 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul70079&show_icons=true&locale=en" alt="rahul70079" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul70079&" alt="rahul70079" /></p>
-
-      
+    
 
 
       
