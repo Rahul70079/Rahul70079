@@ -2,7 +2,6 @@
 <h3 align="center">A skilled and highly focused Computer Science Student who is looking to utilize his interpersonal skills to help achieve business goals. Excellent analytical and developmental skills for a SDE role with flare of Ul designing. A Quick learner and problem solver with good Communication skills.</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul70079&label=Profile%20views&color=0e75b6&style=flat" alt="rahul70079" /> </p>
 
 - 🔭 I’m currently working on **𝗠𝗘𝗥𝗡 projects.**
@@ -12,6 +11,8 @@
 - 💬 Ask me about **𝐔𝐈-𝐔𝐗 & 𝐖𝐄𝐁-𝐃𝐄𝐕.**
 
 - 📫 How to reach me **rahulkumarace58@gmail.com**
+
+- 📄 Know about my experiences Resume [resume](resume)
 
 - ⚡ Fun fact **I am Funny 😄**
 
