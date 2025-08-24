@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul70079&label=Profile%20views&color=0e75b6&style=flat" alt="rahul70079" /> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Full Stack Project**
 
 - 🌱 I’m currently learning **TypeScript etc**
 
