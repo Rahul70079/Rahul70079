@@ -78,12 +78,6 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 [![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/alamimran613/Donations/blob/main/README.md)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahul70079&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahul70079&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul70079&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rahul70079&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
