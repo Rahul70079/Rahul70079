@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **TypeScript etc**
+- 🌱 I’m currently learning **TypeScript, AI etc**
 
 -  Ask me about: Collaboration, Tech Support
 
