@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, AI etc**
 
--  Ask me about: Collaboration, Tech Support
+-  Ask me about: Collaboration, Tech Support etc
 
 - 📫 How to reach me **rahulkumarace58@gmail.com**
 
