@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- **🌱 Exploring Cloud Computing with AWS and Artificial Intelligence.**
+- 🌱 Exploring **Cloud Computing with AWS and Artificial Intelligence.**
 
 -  Ask me about: Collaboration, Tech Support etc
 
