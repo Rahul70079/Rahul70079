@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **TypeScript, AI etc**
+- **🌱 Exploring Cloud Computing with AWS and Artificial Intelligence.**
 
 -  Ask me about: Collaboration, Tech Support etc
 
