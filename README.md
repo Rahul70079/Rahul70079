@@ -54,6 +54,15 @@
   <img src="https://komarev.com/ghpvc/?username=Rahul70079&label=Profile%20views&color=0e75b6&style=flat"/>
   </a>
 </p>
+
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-100%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-300%2B-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositories-50%2B-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-MERN-purple?style=for-the-badge"/>
 </p>
 
 
