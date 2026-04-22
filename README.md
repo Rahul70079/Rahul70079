@@ -53,9 +53,11 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul70079&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul70079&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul70079&theme=radical"/>
 </p>
 
 
