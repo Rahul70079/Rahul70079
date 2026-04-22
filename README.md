@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul70079&theme=onedark&no-frame=true&row=1&column=7"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Rahul70079&theme=onedark&v=1"/>
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
