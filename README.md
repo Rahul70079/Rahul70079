@@ -56,17 +56,6 @@
 </p>
 
 
-</p>
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul70079&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Rahul70079&theme=radical&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul70079&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
 
 <h2 align="left">💻 Tech Stack:</h2>
 
