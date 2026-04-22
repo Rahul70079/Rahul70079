@@ -54,7 +54,6 @@
   </a>
 </p>
 
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -76,6 +75,7 @@
   <img src="https://img.shields.io/badge/🚀%20Deployment-Docker%20%7C%20Vercel-black?style=for-the-badge"/>
 
 </p>
+
 <h2 align="left">💻 Tech Stack:</h2>
 
 <p align="left">
