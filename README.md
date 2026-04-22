@@ -57,17 +57,10 @@
 ## 🏆 Achievements
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/⭐%20Stars-100%2B-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔥%20Commits-300%2B-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📦%20Repositories-50%2B-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💻%20Full%20Stack-Developer-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚛️%20Frontend-React%20%7C%20NextJS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛠️%20Backend-Node%20%7C%20Express-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/☁️%20Cloud-AWS%20%7C%20Firebase-9cf?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗄️%20Database-MongoDB%20%7C%20MySQL-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀%20Deployment-Docker%20%7C%20Vercel-black?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/💻%20Role-Full%20Stack%20Developer-purple?style=for-the-badge"/>
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
