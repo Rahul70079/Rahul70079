@@ -51,7 +51,6 @@
   <a href="https://discord.gg/Rahulkumar998" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
     <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul70079&label=Profile%20views&color=0e75b6&style=flat"/>
   </a>
 </p>
 
