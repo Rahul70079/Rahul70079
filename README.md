@@ -50,13 +50,22 @@
 
   <a href="https://discord.gg/Rahulkumar998" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
+    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul70079&label=Profile%20views&color=0e75b6&style=flat"/>
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+
+</p>
+## 🏆 Achievements
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Rahul70079&theme=onedark&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul70079&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Rahul70079&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul70079&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
