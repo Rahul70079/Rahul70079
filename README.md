@@ -17,31 +17,40 @@
 
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
+
 <p align="left">
-<a href="https://linktr.ee/itz_rahulkumar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
+  <a href="https://linktr.ee/itz_rahulkumar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/rahul-kumar7079" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rahul-kumar7079/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://stackoverflow.com/users/20250563/rahul-kumar-singh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20250563/rahul-kumar-singh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://facebook.com/profile.php?id=100010878225537" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://facebook.com/profile.php?id=100010878225537" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://instagram.com/itz_rahul_s_07" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/er_rahul_s_07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/rahul_kumar_07/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/rahul_kumar_07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.geeksforgeeks.org/user/rahulkumarace58/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/rahulkumarace58/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://discord.gg/Rahulkumar998" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+  <a href="https://discord.gg/Rahulkumar998" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
