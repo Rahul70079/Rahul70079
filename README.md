@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
+<h3 align="center">Full Stack MERN Developer & React Native Developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul70079&label=Profile%20views&color=0e75b6&style=flat" alt="rahul70079" /> </p>
