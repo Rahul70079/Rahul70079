@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects and React Native (Expo) iOS App Development.**
 
-- 🌱 Exploring **🌱 Exploring **Artificial Intelligence (AI), Generative AI, AWS, Microservices, and modern web technologies.**
+- 🌱 Exploring **Artificial Intelligence (AI), Generative AI, AWS, Microservices, and modern web technologies.**
 
 -  Ask me about: Collaboration, Tech Support etc
 
